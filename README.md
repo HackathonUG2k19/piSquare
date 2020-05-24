@@ -11,7 +11,10 @@ So, now you can check from anywhere which washing machines are:
 * which ones are free
 * which ones are not working
 
-##working website
+## solution
+* whenever you want to check status you can do it easily using this web app
+* just enter which machine you are using and the machine status will be updated
+## working website
  check here:
  http://codeswordeditoronline-com.stackstaging.com/WM-status/
  
@@ -19,7 +22,7 @@ So, now you can check from anywhere which washing machines are:
  
  * we would be looking forward for some kind of verification if you are actually using the machine or just bluffing
  	which would include scanning some QR code
-##Team
+## Team
 
 * shaantanu kulkarni
 * manoj sirvi
