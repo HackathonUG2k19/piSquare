@@ -11,12 +11,15 @@ So, now you can check from anywhere which washing machines are:
 * which ones are free
 * which ones are not working
 
-#working website
+##working website
  check here:
  http://codeswordeditoronline-com.stackstaging.com/WM-status/
  
+ ## how would this site improve
  
-#Team
+ * we would be looking forward for some kind of verification if you are actually using the machine or just bluffing
+ 	which would include scanning some QR code
+##Team
 
 * shaantanu kulkarni
 * manoj sirvi
